@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
+## Mi nombre es Juan y este soy yo: 😁
 
 
-**juancruzeb/juancruzeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ### Soy un programador novato con muchas ganas de aprender 🧠🤓
 
-Here are some ideas to get you started:
+- ### Nací y viví toda mi vida en Córdoba Capital, Argentina 🇦🇷 💙🤍💙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ### Actualmente soy un estudiante de secundaria en el instituto El Salvador 📖
+
+- ### Me gusta mucho el deporte, principalmente el fútbol ⚽
+
+- ### También disfruto de los videojuegos, lo considero mi hobby 🎮👾
+  
+- ### Mi sueño es poder ser alguien importante en el mundo haciendo lo que más me gusta que es la programación 🖥️❤️ 
+ 
 
