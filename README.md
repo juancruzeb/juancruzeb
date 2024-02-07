@@ -6,7 +6,7 @@
 
 - ### Nací y viví toda mi vida en Córdoba Capital, Argentina 🇦🇷 💙🤍💙
 
-- ### Actualmente soy un estudiante de secundaria en el instituto El Salvador 📖
+- ### Actualmente soy un estudiante de secundaria en el [Institulo El Salvador](http://www.colegioelsalvador.edu.ar/) 📖
 
 - ### Me gusta mucho el deporte, principalmente el fútbol ⚽
 
